@@ -1,0 +1,45 @@
+html,
+body {
+    position: relative;
+}
+
+#wrapper {
+    margin-bottom: 56px;
+}
+#header {
+    height: 40px;
+}
+
+#content {
+    height: 600px;
+    margin-top: 28%;
+}
+
+#aside {
+    width: 20%;
+    text-align: center;
+    margin-left: 75%;
+    position:absolute;
+}
+
+
+#bodyyy {
+    margin-right: 30%;
+    width: 68%;
+    float: left;
+    position: absolute;
+}
+
+
+#footer {
+    position: absolute;
+    height: 56px;
+    margin-top:150px;
+    width: 100%;
+}
+
+
+#footer_text {
+    text-align: justify;
+    color: gray;
+}

@@ -1,0 +1,20 @@
+
+#box{
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    width: 18cm;
+    height:15cm;
+}
+
+
+
+#login_frame{
+    border-radius: 1.5cm;
+    text-align: center;
+    vertical-align: middle;
+    border-width: 0.1cm;
+    padding: 4ch;
+    border-color: black;
+    border-style: dashed;
+}
